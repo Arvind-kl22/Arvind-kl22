@@ -154,13 +154,13 @@ status     : Always learning, always building 🚀
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/Arvind-kl22/bytezenix">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Arvind-kl22&repo=bytezenix&theme=midnight-purple&border_color=9D4EDD&bg_color=0d0d1a&title_color=C77DFF&icon_color=9D4EDD&text_color=ffffff" />
 </a>
 
-</div>
+</div> -->
 
 <br/>
 
@@ -218,22 +218,22 @@ status     : Always learning, always building 🚀
 <div align="center">
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/arvind-kumar2206" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@your-channel" target="_blank">
+  <a href="https://youtube.com/@bytezenix" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
+  <a href="https://instagram.com/arvind22.kl" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://your-portfolio.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
+  <a href="https://discord.com/users/861302609611591681" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:arvindkl2206@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
