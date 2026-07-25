@@ -157,7 +157,7 @@ status     : Always learning, always building 🚀
 <div align="center">
 
 <a href="https://github.com/Arvind-kl22/bytezenix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arvind-kl22&repo=bytezenix&theme=midnight-purple&border_color=9D4EDD&bg_color=0d0d1a&title_color=C77DFF&icon_color=9D4EDD&text_color=ffffff" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Arvind-kl22&repo=bytezenix&theme=midnight-purple&border_color=9D4EDD&bg_color=0d0d1a&title_color=C77DFF&icon_color=9D4EDD&text_color=ffffff" />
 </a>
 
 </div>
@@ -180,8 +180,8 @@ status     : Always learning, always building 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arvind-kl22&show_icons=true&theme=midnight-purple&border_color=9D4EDD&bg_color=0d0d1a&title_color=C77DFF&icon_color=9D4EDD&text_color=ffffff&hide_border=false&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind-kl22&layout=compact&theme=midnight-purple&border_color=9D4EDD&bg_color=0d0d1a&title_color=C77DFF&text_color=ffffff&hide_border=false" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arvind-kl22&show_icons=true&theme=midnight-purple&border_color=9D4EDD&bg_color=0d0d1a&title_color=C77DFF&icon_color=9D4EDD&text_color=ffffff&hide_border=false&count_private=true" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arvind-kl22&layout=compact&theme=midnight-purple&border_color=9D4EDD&bg_color=0d0d1a&title_color=C77DFF&text_color=ffffff&hide_border=false" height="180" />
 
 </div>
 
